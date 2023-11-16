@@ -1,0 +1,15 @@
+/* CSS for styling */
+#user-list {
+    float: left;
+    width: 30%;
+}
+#chat-box {
+    float: right;
+    width: 70%;
+    border: 1px solid #ccc;
+    height: 400px;
+}
+.hidden {
+    display: none;
+}
+
